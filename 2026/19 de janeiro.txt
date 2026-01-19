@@ -1,0 +1,12 @@
+adicionei no livro o módulo de modelagem de funções.
+Preciso, nele, explicar funções de primeiro grau, segundo grau, etc...
+Tem que ficar completo.
+
+número aproximado de páginas, ao final ~ 4 páginas
+
+Além de trabalhar no livro, estudei angular, tendo uma primeira experiência com table, no qual acabou dando um erro no código,
+mas isso eu resolvo a posteriori.
+
+Em java, já tenho o código do db, de cór, quase por completo.
+
+
