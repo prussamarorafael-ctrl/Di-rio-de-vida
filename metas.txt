@@ -1,0 +1,4 @@
+2027: termino algoritmo camera e mov, al, algoritmo de shoot, e dialogo
+2028: crio um algoritmo único, em js
+2029: acoplo ao angular
+2030: converto em ts

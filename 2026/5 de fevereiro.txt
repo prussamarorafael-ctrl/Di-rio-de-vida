@@ -1,0 +1,7 @@
+Vou aproveitar esse um mes até o inicio das aulas para estudar bastante angular e spring boot.
+De angular, no momento, estou aprendendo sobre passagem de parametros na url por meio de routers e etc...
+De spring boot, estou aprendendo testes unitarios
+Estou também estudando alguns algoritmos em js
+Além disso, também tenho trabalhado no meu livro.
+Estou com vontade de escrever novamente alguma light novel, mas quero fazer isso nas férias do final de ano
+Acredito que a light novel que eu ja escrevi, tenha um final leglzinho, portanto, não vou mexer nela.

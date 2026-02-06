@@ -3,6 +3,7 @@
 Os algoritmos que estou estudando, segundo minha meta, eu vou aprender totalmente por volta do final do ano. Depois disso,
 tenho que unificar os vários algoritmos que aprendi, o que vai acontecer por volta do final do ano que vem. Depois, tenho que
 aprender como usar em angular, ou seja, passar para ts.
+Terminei de aprender o algoritmo de camera, em js
 
 
 
